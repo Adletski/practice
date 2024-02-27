@@ -13,6 +13,7 @@
 		7FE563DA2B8E0411002562F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FE563D82B8E0411002562F3 /* Main.storyboard */; };
 		7FE563DC2B8E0413002562F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FE563DB2B8E0413002562F3 /* Assets.xcassets */; };
 		7FE563DF2B8E0413002562F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FE563DD2B8E0413002562F3 /* LaunchScreen.storyboard */; };
+		7FE563E72B8E0557002562F3 /* ErzhanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE563E62B8E0557002562F3 /* ErzhanViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7FE563DB2B8E0413002562F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7FE563DE2B8E0413002562F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FE563E02B8E0413002562F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FE563E62B8E0557002562F3 /* ErzhanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErzhanViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7FE563DB2B8E0413002562F3 /* Assets.xcassets */,
 				7FE563DD2B8E0413002562F3 /* LaunchScreen.storyboard */,
 				7FE563E02B8E0413002562F3 /* Info.plist */,
+				7FE563E62B8E0557002562F3 /* ErzhanViewController.swift */,
 			);
 			path = practiceproject;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FE563E72B8E0557002562F3 /* ErzhanViewController.swift in Sources */,
 				7FE563D72B8E0411002562F3 /* ViewController.swift in Sources */,
 				7FE563D32B8E0411002562F3 /* AppDelegate.swift in Sources */,
 				7FE563D52B8E0411002562F3 /* SceneDelegate.swift in Sources */,
