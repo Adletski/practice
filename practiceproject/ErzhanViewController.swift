@@ -13,6 +13,7 @@ class ErzhanViewController: UIViewController {
         super.viewDidLoad()
 
         print("ezhan")
+        view.backgroundColor = .white
     }
 
 }
